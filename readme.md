@@ -1,16 +1,16 @@
-#A camera enclosure for the 1st gen Rpi 7" touch screen, with interchangeable camera modules
+# A camera enclosure for the 1st gen Rpi 7" touch screen, with interchangeable camera modules
 
 Jenny List 2025
 CC-BY-SA 4.0
 
-##About
+## About
 
 I need a camera mule, on which to test experimental digital camera designs. I had an RPi 4 and a 1st-gen Pi 7" touch screen, so I've made this camera enclosure. Think of it as a very chunky 7" tablet with a mounting on the rear for a modular 3D printed camera carrier. As shipped, it comes with a module for the RPi HQ camera.
 
 For my needs it doesn't come with a battery, it will always be used in a static situation or as part of a rig  where USB-C power is available.
 ![A picture of the camera.](img/7-inch-camera-pi-desktop.jpg)
 
-##You Will Need:
+## You Will Need:
 
 Prints of the following modules from 7-inch-camera.scad. Use full supports and a brim.
 1. cameraChassis()
@@ -27,7 +27,7 @@ A 1st gen 7" Raspberry Pi touch screen and mounting kit.
 
 Assorted self-tapping screws for assembly.
 
-##To Assemble:
+## To Assemble:
 
 The parts appear as follows:
 
