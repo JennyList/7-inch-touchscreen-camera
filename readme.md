@@ -33,7 +33,9 @@ The parts appear as follows:
 
 ![The main parts of the camera.](img/7-inch-camera.png)
 
-The diagram above shows how the parts locate, though the HQ camera front plate is shown upside down as it is printed. It's suggested you mount the Pi to the display first using the included mounting kit and making sure it all works, before mounting the assembly to the chassi with four M3 screws. Then mount the grip panel to the back with four self-tapping screws. You should be able to see the Pi through a 100mm by 100mm opening in the front, this should be enough to attach the camera cable from your front place, and assemble the whole thing with more self-tapping screws.
+The diagram above shows how the parts locate, though the HQ camera front plate is shown upside down as it is printed. 
+
+It's suggested you mount the Pi to the display first using the included mounting kit and making sure it all works, before mounting the assembly to the chassis with four M3 screws. Then mount the grip panel to the back with four self-tapping screws. You should be able to see the Pi through a 100mm by 100mm opening in the front, this should be enough to attach the camera cable from your front place, and assemble the whole thing with more self-tapping screws.
 
 The camera front plate as distributed is for the HQ camera. It attaches to the front with four self-tappers, with its rear electronics in the enclosure and the cable passing through the slot. The camera collar fits on top of the camera and is secured with four moew screws, supporting and protecting the module while allowing space for lens attachment.
 
