@@ -47,3 +47,4 @@ Any RPi camera software shopuld be find with this, as long as it supports whatev
 
 This model is licensed under the [Creative Commons Attribution Share Alike 4.0 International licence](license.md).
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B41FD5UE)
